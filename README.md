@@ -6,4 +6,3 @@ The technique has been widely popularized by dozens of apps and websites providi
 
 I built this Tomato Timer Chrome Extension by using Javascript, CSS and HTML.
 
-Reference: https://www.youtube.com/watch?v=MtYR2vCs2R0
